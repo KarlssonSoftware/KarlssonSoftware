@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KarlssonSoftware
-- 👀 I’m interested in gamehacking, gamedev
-- 🌱 I’m currently learning C++, DirectX
-- 📫 How to reach me Discord: Karlsson#5355
+- 👀 I’m interested in security, gamedev
+- 🌱 I’m currently learning C++, GameDevelopment in Unreal Engine
+- 📫 How to reach me Discord: KarlssonSoftware
