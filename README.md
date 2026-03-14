@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @KarlssonSoftware
-- 👀 I’m interested in security, gamedev
-- 🌱 I’m currently learning C++, GameDevelopment in Unreal Engine
-- 📫 How to reach me Discord: KarlssonSoftware
+🎮 Indie developer & programming enthusiast
+
+Currently studying C# and Web Development
+• HTML
+• CSS
+• JavaScript
+
+I also work with C++ for Unreal Engine 
